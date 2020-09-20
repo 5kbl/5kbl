@@ -1,5 +1,5 @@
 ### Hello!
-I'm wyspr. I'm a hobbyist that likes to edit video and code.
+I'm skbl. I'm a hobbyist that likes to edit video and code.
 
 ## Socials:
 [Website](https://wyspr.ml) <br>
