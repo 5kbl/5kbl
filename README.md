@@ -1,5 +1,5 @@
 ### Hello!
-I'm skbl. I'm a hobbyist that likes to edit video and code.
+User of proccessing boxes.
 
 ## Socials:
 [Website](https://skbl.ml) <br>
