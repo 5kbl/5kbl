@@ -1,5 +1,5 @@
 # About
-user of proccessing boxes as a hobby
+user of proccessing boxes
 
 ## Socials:
 [Website](https://skbl.ml) <br>
