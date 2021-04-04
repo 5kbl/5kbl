@@ -1,6 +1,6 @@
 [![E-Soda Banner](./Banner-Small.png)](https://esoda.ga)
 # About
-Hobbyist of all sorts.
+Hey there! I'm a hobbyist of all sorts.
 
 ## Socials:
 [Website](https://esoda.ga) <br>
