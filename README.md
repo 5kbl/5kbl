@@ -1,8 +1,8 @@
 # About
-user of proccessing boxes
+Hobbyist of all sorts.
 
 ## Socials:
-[Website](https://skbl.ml) <br>
+[Website](https://esoda.ga) <br>
 
 
 
