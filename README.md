@@ -1,3 +1,4 @@
+[![E-Soda Banner](./Banner.png)](https://esoda.ga)
 # About
 Hobbyist of all sorts.
 
