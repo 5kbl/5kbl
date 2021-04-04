@@ -3,7 +3,7 @@
 Hey there! I'm a hobbyist of all sorts.
 
 ## Socials:
-[Website](https://esoda.ga) <br>
+[Website](https://esoda.ga) <br> [YouTube Channel](https://www.youtube.com/channel/UCdamHTyE-YUIR8mvbUYPbCw)
 
 
 
