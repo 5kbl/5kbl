@@ -1,9 +1,9 @@
 [![E-Soda Banner](./small-banner.png)](https://esoda.ga)
 # About
-Hey there! I'm a guy with many hobbies.
+Hey there! I'm a human doing human things.
 
 ## Socials:
-[Website](https://esoda.ga) <br> [YouTube Channel](https://www.youtube.com/channel/UCdamHTyE-YUIR8mvbUYPbCw)
+[Website](https://esoda.ga) <br> [YouTube](https://www.youtube.com/channel/UCdamHTyE-YUIR8mvbUYPbCw)
 
 ## Contact:
 [General Emails](mailto:hello@esoda.ga) <br> [Business Emails](mailto:business@esoda.ga)
