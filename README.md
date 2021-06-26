@@ -1,6 +1,6 @@
-[![E-Soda Banner](./small-banner.png)](https://esoda.ga)
+[![E-Soda Banner](./banner.gif)](https://esoda.ga)
 # About
-Hey there! I'm a human doing human things. I occationally program, most of the time in HTML/CSS and batch. 
+Hey there! I'm a human doing human things. I'm a hobbyist and occatitonally codes. 
 
 ## Socials:
 [Website](https://esoda.ga) <br> [YouTube](https://www.youtube.com/channel/UCdamHTyE-YUIR8mvbUYPbCw)
