@@ -1,4 +1,4 @@
-[![esoda Banner](./banner 2.gif)](https://esoda.ga)
+[![esoda Banner](./banner-light.gif)](https://esoda.ga)
 # About
 Hey there! I'm a human doing human things. I'm a hobbyist and occatitonally codes. 
 
