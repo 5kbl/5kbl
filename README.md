@@ -25,4 +25,4 @@ I try to make useful things.
 
 [![Website](https://img.shields.io/badge/website-www.esoda.ga-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=4D4D4D)](https://esoda.ga)
 
-[![Email](https://img.shields.io/badge/Email-hello@esoda.ga-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=4D4D4D)](mailto:hello@esoda.ga)
+[![Email](https://img.shields.io/badge/Email-hello@esoda.ga-white?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=4D4D4D)](mailto:hello@esoda.ga)
