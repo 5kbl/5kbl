@@ -26,4 +26,4 @@ I try to make useful things.
 
 [![Email](https://img.shields.io/badge/Email-hello@esoda.ga-white?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=4D4D4D)](mailto:hello@esoda.ga)
 
-![esoda's GitHub stats](https://github-readme-stats.vercel.app/api?username=e-soda&count_private=true&show_icons=true&theme=dark&hide_border=true&icon_color=FFFFFF)
+[![esoda's GitHub stats](https://github-readme-stats.vercel.app/api?username=e-soda&count_private=true&show_icons=true&theme=dark&hide_border=true&icon_color=FFFFFF&bg_color=4D4D4D&text_color=FFFFFF)](#)
