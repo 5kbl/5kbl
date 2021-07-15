@@ -1,4 +1,3 @@
-[![esoda Banner](./banner-light.gif)](https://esoda.ga)
 # esoda
 [![Powered By Oxygen](<https://img.shields.io/badge/powered by-oxygen-white?style=for-the-badge&labelColor=4D4D4D>)](#) [![Powered By Water](<https://img.shields.io/badge/powered by-water-blue?style=for-the-badge&labelColor=4D4D4D>)](#)
 
