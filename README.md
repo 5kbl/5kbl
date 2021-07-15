@@ -11,7 +11,7 @@ I try to make useful things.
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
 
-[![Davinci Resolve](<https://img.shields.io/badge/-Davinci Resolve-262626?style=for-the-badge>)](#)
+[![Davinci Resolve](<https://img.shields.io/badge/-Davinci Resolve-4D4D4D?style=for-the-badge>)](#)
 [![Adobe Premiere Pro](<https://img.shields.io/badge/-Premiere Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white>)](#)
 [![Adobe After Effects](<https://img.shields.io/badge/-After Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white>)](#)
 [![Blender](https://img.shields.io/badge/-Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)](#)
@@ -20,10 +20,9 @@ I try to make useful things.
 [![Adobe XD](https://img.shields.io/badge/-XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)](#)
 
 
-## Socials:
-[![Website](https://img.shields.io/badge/www.esoda.ga-white?style=for-the-badge&logo=html5&logoColor=black)](https://esoda.ga)
-
+## Links:
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCdamHTyE-YUIR8mvbUYPbCw)
 
-## Contact:
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@esoda.ga)
+[![Website](https://img.shields.io/badge/website-www.esoda.ga-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=4D4D4D)](https://esoda.ga)
+
+[![Email](https://img.shields.io/badge/Email-hello@esoda.ga-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=4D4D4D)](mailto:hello@esoda.ga)
